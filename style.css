@@ -148,7 +148,18 @@ width: 150px;
         padding: 5px;
         width: 150px;}
 
-
+        .member-07{
+          text-align: center;
+          margin:40px 0;
+          font-size:20px;
+          padding: 5px 0;
+        }
+        
+        .member-Katherine-Picture{ 
+          border: 5px solid rgb(243, 238, 238);
+          border-radius: 5px;
+          padding: 5px;
+          width: 150px;}
 
 
 
